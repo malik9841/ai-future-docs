@@ -19,3 +19,7 @@ Responsible adoption requires attention to:
 - Appropriate human oversight
 
 The future belongs to those who learn to collaborate effectively with AI tools.
+
+## What comes next
+
+AI will increasingly become part of everyday software and documentation workflows.
