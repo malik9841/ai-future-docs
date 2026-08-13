@@ -1,8 +1,10 @@
 site_name: AI as the Future
 site_description: Docs as Code demonstration
+
 theme:
   name: material
 
 nav:
   - Home: index.md
   - AI as the Future: ai-as-the-future.md
+  - Responsible AI: responsible-ai.md
